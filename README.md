@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @uraniumsteel
-- 👀 I’m interested in 
-       Helping coders expand beyond their standard defaults, and
+- 👀 Here on GitHub I’m interested in 
+       Helping coders expand beyond their standard defaults, as well as,
        NodeJS, AI & machine learning, and
        Executive Management
        
-- 🌱 I’m currently learning:
-         Everything I can,
+- 🌱 I’m currently learning in the technical realm
          HTC on supercomputing, more MEAN stack
+         as well as various InfoSec, DevSecOps, and other things.
+         
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  I'll add this later.
 
