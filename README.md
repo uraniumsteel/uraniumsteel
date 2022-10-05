@@ -5,7 +5,7 @@
        Executive Management
        
 - 🌱 I’m currently learning in the technical realm
-         HTC on supercomputing, more MEAN stack
+        Always more MEAN stack
          as well as various InfoSec, DevSecOps, and other things.
          
 - 💞️ I’m looking to collaborate on ...
